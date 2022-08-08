@@ -3,8 +3,8 @@
 Welcome to my GitHub profile :)
 I'm studing [Master of Science in Information Systtems at Stevens Institute of Technology](https://www.stevens.edu/school-business/masters-programs/information-systems), aspiring to become a DATA SCIENTIST, currently living in New York City Metropolitian area
 
-- 🔭 I’m currently working on [LATEST PROJECT]
-- 🌱 I’m currently learning ... [NEWEST SKILL]
+- 🔭 I’m currently working on [Determining influential factors in Health Care for developing regions]
+- 🌱 I’m currently learning [Knowledge-Based AI: Cognitive Systems](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
 - 💬 Ask me about using Hard parameter sharing to determing Emotions based on EEG data
 - 😄 Pronouns: ... [PRONOUNS]
 - ⚡ Fun fact: [ANY FUN FACT]
