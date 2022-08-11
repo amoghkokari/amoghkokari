@@ -13,6 +13,19 @@ I'm studing [Master of Science in Information Systems at Stevens Institute of Te
 
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
+## Webistes I've Developed:
+
+-[Nioneer](https://www.nioneer.com)
+-[WorkinBuddy](http://workinbuddy.com)
+
+## Websites and Mobile Applications I've designed:
+
+-[Human Computer Interaction Lab](https://www.figma.com/proto/NT0i0Lx5zegnNuJArNAMWS/StevensHCI?node-id=1%3A2&starting-point-node-id=1%3A2)
+-[Nioneer V.2](https://www.figma.com/proto/LzOZNJ2rKPeGM7xzjn9vrE/Untitled?node-id=1%3A2)
+-[Qzee](https://www.figma.com/proto/AuFRUijarfTwSzMDBsoin3/Qzeee?node-id=0%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A2)
+-[NewGen Analysis](https://www.figma.com/proto/YWytkthtZJxeRyecV2cI2s/NGA?node-id=11%3A5&scaling=scale-down&page-id=11%3A0&starting-point-node-id=39%3A76&show-proto-sidebar=1)
+-[Authenticator](https://www.figma.com/proto/UnCjKfv9U8qaThBja217a9/Authenticator?node-id=7%3A194&scaling=min-zoom&page-id=0%3A1)
+-[Nioneer Application](https://www.figma.com/proto/BjfEVzu7iWSEQ7ZtsHQvZ0/UI?node-id=1%3A25&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A5)
 
 ## 👨‍💻 Data Projects I've Made:
 
