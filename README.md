@@ -35,6 +35,6 @@ Created Tableau dashboard to leverage data to explain events
 
 - [Flourish Visualizations](https://public.flourish.studio/visualisation/10860806/)
 
-90 days Multicountry data extracted from Google Trends, I contrasted coronavirus vs monkey pox search trends for The USA, Sierra Leone, Haiti, Nigeria and World Wide.
+90 days Multicountry data extracted from Google Trends, I contrasted coronavirus vs monkey pox search trends for The USA, Haiti, Nigeria and World Wide.
 
 ## 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/amoghkokari/)
