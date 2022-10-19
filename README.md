@@ -3,9 +3,9 @@
 Welcome to my GitHub profile :)
 I'm studing [Master of Science in Information Systems at Stevens Institute of Technology](https://www.stevens.edu/school-business/masters-programs/information-systems) with concentration in [Data Science and AI](https://stevens.smartcatalogiq.com/2022-2023/Academic-Catalog/School-of-Business/Graduate-Programs/Master-of-Science-in-Business-Intelligence-and-Analytics-BIA), aspiring to become the best DATA SCIENTIST, currently living in New York City Metropolitian area
 
-- 🔭 I’m currently working on [Determining influential factors in Health Care for developing regions]
+- 🔭 I’m currently working on [Fitness solution for graduate students at Stevens Institute of Technology ]
 - 🌱 I’m currently learning [Knowledge-Based AI: Cognitive Systems](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
-- 💬 Ask me about using Hard parameter sharing to determine Emotions based on EEG data
+- 💬 Ask me about designing [Data Driven Huamn-Centered Solutions]
 - 😄 Pronouns: ... [PRONOUNS]
 - ⚡ Fun fact: [ANY FUN FACT]
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/amoghkokari/)
