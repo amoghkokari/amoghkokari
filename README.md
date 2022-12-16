@@ -5,7 +5,7 @@ I'm studing [Master of Science in Information Systems at Stevens Institute of Te
 
 - 🔭 I’m currently working on [Fitness solution for graduate students at Stevens Institute of Technology ]
 - 🌱 I’m currently learning [Knowledge-Based AI: Cognitive Systems](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
-- 💬 Ask me about designing [Data Driven Huamn-Centered Solutions]
+- 💬 Ask me about designing [Data Driven Human-Centered Solutions]
 - 😄 Pronouns: ... [PRONOUNS]
 - ⚡ Fun fact: [ANY FUN FACT]
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/amoghkokari/)
