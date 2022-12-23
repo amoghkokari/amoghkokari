@@ -15,11 +15,11 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 ## Webistes I've Developed:
 
-- [Nioneer](https://www.nioneer.com)
 - [WorkinBuddy](http://workinbuddy.com)
 
 ## Websites and Mobile Applications I've designed:
 
+- [Neko-Tine BeatTheFat]()
 - [Human Computer Interaction Lab](https://www.figma.com/proto/NT0i0Lx5zegnNuJArNAMWS/StevensHCI?node-id=1%3A2&starting-point-node-id=1%3A2)
 - [Nioneer V.2](https://www.figma.com/proto/LzOZNJ2rKPeGM7xzjn9vrE/Untitled?node-id=1%3A2)
 - [Qzee](https://www.figma.com/proto/AuFRUijarfTwSzMDBsoin3/Qzeee?node-id=0%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A2)
@@ -36,5 +36,9 @@ Created Tableau dashboard to leverage data to explain events
 - [Flourish Visualizations](https://public.flourish.studio/visualisation/10860806/)
 
 90 days Multicountry data extracted from Google Trends, I contrasted coronavirus vs monkey pox search trends for The USA, Haiti, Nigeria and World Wide.
+
+- [YouTube Text Mining ML Analysis](https://github.com/amoghkokari/youTube_textMining_ML_Analysis)
+
+Developed Flask based web application that extracts YouTube data, cleans, preprocesses, feature engineers and stores data, creates word cloud (titles, descriptions, tags), runs 7 ML algorithms (GaussianNB, LGBMClassifier, XGBClassifier, AdaBoostClassifier, LogisticRegression, GBTClassifier, NaiveBayes), compares runtimes (spark vs normal), performance metrices and predicts like counts on title and description
 
 ## 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/amoghkokari/)
