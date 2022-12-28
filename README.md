@@ -26,6 +26,7 @@ This is where I keep my code and projects. Feel free to look around and contact 
 - [NewGen Analysis](https://www.figma.com/proto/YWytkthtZJxeRyecV2cI2s/NGA?node-id=11%3A5&scaling=scale-down&page-id=11%3A0&starting-point-node-id=39%3A76&show-proto-sidebar=1)
 - [Authenticator](https://www.figma.com/proto/UnCjKfv9U8qaThBja217a9/Authenticator?node-id=7%3A194&scaling=min-zoom&page-id=0%3A1)
 - [Nioneer Application](https://www.figma.com/proto/BjfEVzu7iWSEQ7ZtsHQvZ0/UI?node-id=1%3A25&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A5)
+- [HCI Lab Project](https://amoghkokari.slite.page/p/HqNWOHL0w_jkiA/HCI-LAB-Project-Document)
 
 ## 👨‍💻 Data Projects I've Made:
 
