@@ -1,13 +1,15 @@
 ### Hey! I'm Amogh 👋
 
-Welcome to my GitHub profile :)
-I'm studing [Master of Science in Information Systems at Stevens Institute of Technology](https://www.stevens.edu/school-business/masters-programs/information-systems), aspiring to become the best version of myself, currently living in New York City Metropolitian area
+Welcome to my GitHub profile :) 
+I am a Computer Science Engineer (1+ years of full time experience) graduating in May 2023 with [Master of Science in Information Systems from Stevens Institute of Technology, Hoboken, USA](https://www.stevens.edu/school-business/masters-programs/information-systems). Currently living in New York City Metropolitian area aspiring to become the best version of myself. Open to interviewing and actively looking for full-time position beginning June 2023.
 
-- 🔭 I’m currently working on [Fitness solution for graduate students at Stevens Institute of Technology ]
-- 🌱 I’m currently learning [Knowledge-Based AI: Cognitive Systems](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
+Do check the repositories, leave a review or raise an issue and lets collaborate.
+
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning new concepts and doing leetcode
 - 💬 Ask me about designing [Data Driven Human-Centered Solutions]
-- 😄 Pronouns: ... [PRONOUNS]
-- ⚡ Fun fact: [ANY FUN FACT]
+- 😄 Pronouns: ... [He/Him]
+- ⚡ Fun fact: [Passing of days is like a binary bit, with 1 denoting a day and 0 a night. Each passing second is a journey that slowly takes us from one to the other]
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/amoghkokari/)
 - 🎈 In my free time, I like to Read Books 📚, Play Ping pong 🏓 and walk 🚶‍♂️
 
