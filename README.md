@@ -15,6 +15,10 @@ Do check the repositories, leave a review or raise an issue and lets collaborate
 
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
+## Open source contribution
+
+- [data-8 (The Foundations of Data Science course at UC Berkeley)](https://github.com/data-8/datascience/pull/576)
+
 ## Webistes I've Developed:
 
 - [WorkinBuddy](http://workinbuddy.com)
