@@ -1,7 +1,7 @@
 ### Hey! I'm Amogh 👋
 
 Welcome to my GitHub profile :) 
-I am a Computer Science Engineer (1+ years of full time experience) graduating in May 2023 with [Master of Science in Information Systems from Stevens Institute of Technology, Hoboken, USA](https://www.stevens.edu/school-business/masters-programs/information-systems). Currently living in New York City Metropolitian area aspiring to become the best version of myself. Open to interviewing and actively looking for full-time position beginning June 2023.
+I am a Computer Science Engineer (2+ years of full time experience) graduating in May 2023 with [Master of Science in Information Systems from Stevens Institute of Technology, Hoboken, USA](https://www.stevens.edu/school-business/masters-programs/information-systems). Currently living in New York City Metropolitian area aspiring to become the best version of myself. Open to interviewing and actively looking for full-time position beginning June 2023.
 
 Do check the repositories, leave a review or raise an issue and lets collaborate.
 
