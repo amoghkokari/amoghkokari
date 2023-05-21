@@ -1,12 +1,12 @@
 ### Hey! I'm Amogh 👋
 
 Welcome to my GitHub profile :) 
-I am a Computer Science Engineer (2+ years of full time experience) graduating in May 2023 with [Master of Science in Information Systems from Stevens Institute of Technology, Hoboken, USA](https://www.stevens.edu/school-business/masters-programs/information-systems). Currently living in New York City Metropolitian area aspiring to become the best version of myself. Open to interviewing and actively looking for full-time position beginning June 2023.
+I am a Data Analyst (2+ years of full time experience) graduated in May 2023 with [Master of Science in Information Systems from Stevens Institute of Technology, Hoboken, USA](https://www.stevens.edu/school-business/masters-programs/information-systems). Currently living in New York City Metropolitian area aspiring to become the best version of myself. Open to interviewing and actively looking for full-time position immidetely available.
 
 Do check the repositories, leave a review or raise an issue and lets collaborate.
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning new concepts and doing leetcode
+- 🔭 I’m currently job hunting
+- 🌱 I’m currently learning new concepts and doing projects, leetcode
 - 💬 Ask me about designing [Data Driven Human-Centered Solutions]
 - 😄 Pronouns: ... [He/Him]
 - ⚡ Fun fact: [Passing of days is like a binary bit, with 1 denoting a day and 0 a night. Each passing second is a journey that slowly takes us from one to the other]
@@ -47,5 +47,7 @@ Created Tableau dashboard to leverage data to explain events
 - [YouTube Text Mining ML Analysis](https://github.com/amoghkokari/youTube_textMining_ML_Analysis)
 
 Developed Flask based web application that extracts YouTube data, cleans, preprocesses, feature engineers and stores data, creates word cloud (titles, descriptions, tags), runs 7 ML algorithms (GaussianNB, LGBMClassifier, XGBClassifier, AdaBoostClassifier, LogisticRegression, GBTClassifier, NaiveBayes), compares runtimes (spark vs normal), performance metrices and predicts like counts on title and description
+
+## [Portfolio](https://padlet.com/amoghkokari/my-portfolio-pmedtgib3l3qk1ma)
 
 ## 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/amoghkokari/)
