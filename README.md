@@ -5,7 +5,7 @@ I am an Analyst who takes time to identify the right problem before finding a so
 
 Do check the repositories, leave a review or raise an issue and lets collaborate.
 
-- 🎓 [MS in Information Systems from Stevens Institute of Technology, Hoboken, USA](https://www.stevens.edu/school-business/masters-programs/information-systems)
+- 🎓 MS in Information Systems [Stevens Institute of Technology](https://www.stevens.edu/school-business/masters-programs/information-systems)
 - 🏠 NYC metropolitan area
 - 🌱 I’m currently learning new concepts and doing projects, leetcode
 - 💬 Ask me about designing [Data Driven Human-Centered Solutions]
@@ -15,25 +15,6 @@ Do check the repositories, leave a review or raise an issue and lets collaborate
 - 🎈 In my free time, I like to Read Books 📚, Play Ping pong 🏓 and walk 🚶‍♂️
 
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
-
-## Open source contribution
-
-- [data-8 (The Foundations of Data Science course at UC Berkeley)](https://github.com/data-8/datascience/pull/576)
-
-## Webistes I've Developed:
-
-- [WorkinBuddy](http://workinbuddy.com)
-
-## Websites and Mobile Applications I've designed:
-
-- [Neko-Tine BeatTheFat]()
-- [Human Computer Interaction Lab](https://www.figma.com/proto/NT0i0Lx5zegnNuJArNAMWS/StevensHCI?node-id=1%3A2&starting-point-node-id=1%3A2)
-- [Nioneer V.2](https://www.figma.com/proto/LzOZNJ2rKPeGM7xzjn9vrE/Untitled?node-id=1%3A2)
-- [Qzee](https://www.figma.com/proto/AuFRUijarfTwSzMDBsoin3/Qzeee?node-id=0%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A2)
-- [NewGen Analysis](https://www.figma.com/proto/YWytkthtZJxeRyecV2cI2s/NGA?node-id=11%3A5&scaling=scale-down&page-id=11%3A0&starting-point-node-id=39%3A76&show-proto-sidebar=1)
-- [Authenticator](https://www.figma.com/proto/UnCjKfv9U8qaThBja217a9/Authenticator?node-id=7%3A194&scaling=min-zoom&page-id=0%3A1)
-- [Nioneer Application](https://www.figma.com/proto/BjfEVzu7iWSEQ7ZtsHQvZ0/UI?node-id=1%3A25&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A5)
-- [HCI Lab Project](https://amoghkokari.slite.page/p/HqNWOHL0w_jkiA/HCI-LAB-Project-Document)
 
 ## 👨‍💻 Data Projects I've Made:
 
@@ -48,6 +29,34 @@ Created Tableau dashboard to leverage data to explain events
 - [YouTube Text Mining ML Analysis](https://github.com/amoghkokari/youTube_textMining_ML_Analysis)
 
 Developed Flask based web application that extracts YouTube data, cleans, preprocesses, feature engineers and stores data, creates word cloud (titles, descriptions, tags), runs 7 ML algorithms (GaussianNB, LGBMClassifier, XGBClassifier, AdaBoostClassifier, LogisticRegression, GBTClassifier, NaiveBayes), compares runtimes (spark vs normal), performance metrices and predicts like counts on title and description
+
+## Figma Prototpyes (data driven UI UX)
+
+- [Neko-Tine BeatTheFat](https://www.figma.com/proto/kOJYB4BlA9dLRKlucSTUig/BTF?type=design&node-id=8-2&t=CAubBeAtzthSb0bF-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A2&mode=design)
+  Mobile Application mockup to help International students in USA source nutritional food based on their dietary and goal preference (gain, loose weight)
+- [Human Computer Interaction Lab](https://www.figma.com/proto/NT0i0Lx5zegnNuJArNAMWS/StevensHCI?node-id=1%3A2&starting-point-node-id=1%3A2)
+  Webside mockup for HCL Lab to help lab showcase its projects, teammates, fun activites and enrollment
+- [Nioneer V.2](https://www.figma.com/proto/LzOZNJ2rKPeGM7xzjn9vrE/Untitled?node-id=1%3A2)
+  Mobile Application mockup Vr2 facilitating different products and serives offered by Nioneer
+- [Qzee](https://www.figma.com/proto/AuFRUijarfTwSzMDBsoin3/Qzeee?node-id=0%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A2)
+  Mobile Application mockup envisioning a game to improve general knowledge on various streams
+- [NewGen Analysis](https://www.figma.com/proto/YWytkthtZJxeRyecV2cI2s/NGA?node-id=11%3A5&scaling=scale-down&page-id=11%3A0&starting-point-node-id=39%3A76&show-proto-sidebar=1)
+  Mobile Application mockup envisioning stock market news about company's 
+- [Authenticator](https://www.figma.com/proto/UnCjKfv9U8qaThBja217a9/Authenticator?node-id=7%3A194&scaling=min-zoom&page-id=0%3A1)
+- [Nioneer Application](https://www.figma.com/proto/BjfEVzu7iWSEQ7ZtsHQvZ0/UI?node-id=1%3A25&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A5)
+  Mobile Application mockup Vr1 facilitating different products and serives offered by Nioneer
+
+## Open source contribution
+
+- [data-8 (The Foundations of Data Science course at UC Berkeley)](https://github.com/data-8/datascience/pull/576)
+
+## Webistes I've Developed:
+
+- [WorkinBuddy](http://workinbuddy.com)
+
+## Project documentation:
+
+- [HCI Lab Project](https://amoghkokari.slite.page/p/HqNWOHL0w_jkiA/HCI-LAB-Project-Document)
 
 ## [Portfolio](https://padlet.com/amoghkokari/my-portfolio-pmedtgib3l3qk1ma)
 
