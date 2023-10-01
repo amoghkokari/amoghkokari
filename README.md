@@ -1,11 +1,12 @@
 ### Hey! I'm Amogh 👋
 
 Welcome to my GitHub profile :) 
-I am a Data Analyst (2+ years of full time experience) graduated in May 2023 with [Master of Science in Information Systems from Stevens Institute of Technology, Hoboken, USA](https://www.stevens.edu/school-business/masters-programs/information-systems). Currently living in New York City Metropolitian area aspiring to become the best version of myself. Open to interviewing and actively looking for full-time position immidetely available.
+I am an Analyst who takes time to identify the right problem before finding a solutions. Centered on Empathy, I thrive on creating user-centered solutions using my technical and business Acumen. Open to interviewing and actively looking for full-time positions.
 
 Do check the repositories, leave a review or raise an issue and lets collaborate.
 
-- 🔭 I’m currently job hunting
+- 🎓 [MS in Information Systems from Stevens Institute of Technology, Hoboken, USA](https://www.stevens.edu/school-business/masters-programs/information-systems)
+- 🏠 NYC metropolitan area
 - 🌱 I’m currently learning new concepts and doing projects, leetcode
 - 💬 Ask me about designing [Data Driven Human-Centered Solutions]
 - 😄 Pronouns: ... [He/Him]
