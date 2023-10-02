@@ -9,7 +9,6 @@ Do check the repositories, leave a review or raise an issue and lets collaborate
 - 🏠 NYC metropolitan area
 - 🌱 I’m currently learning new concepts and doing projects, leetcode
 - 💬 Ask me about designing [Data Driven Human-Centered Solutions]
-- 😄 Pronouns: ... [He/Him]
 - ⚡ Fun fact: [Passing of days is like a binary bit, with 1 denoting a day and 0 a night. Each passing second is a journey that slowly takes us from one to the other]
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/amoghkokari/)
 - 🎈 In my free time, I like to Read Books 📚, Play Ping pong 🏓 and walk 🚶‍♂️
