@@ -41,15 +41,11 @@ Developed Flask based web application that extracts YouTube data, cleans, prepro
 - [Nioneer Application](https://www.figma.com/proto/BjfEVzu7iWSEQ7ZtsHQvZ0/UI?node-id=1%3A25&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A5)
   Mobile Application mockup Vr1 facilitating different products and serives offered by Nioneer
 
-## Open source contribution
+## Open source contribution - [data-8 (The Foundations of Data Science course at UC Berkeley)](https://github.com/data-8/datascience/pull/576)
 
-- [data-8 (The Foundations of Data Science course at UC Berkeley)](https://github.com/data-8/datascience/pull/576)
+## Webistes I've Developed: - [WorkinBuddy](http://workinbuddy.com)
 
-## Webistes I've Developed:
-
-- [WorkinBuddy](http://workinbuddy.com)
-
-## [Portfolio](https://padlet.com/amoghkokari/my-portfolio-pmedtgib3l3qk1ma)
+## [My Portfolio](https://padlet.com/amoghkokari/my-portfolio-pmedtgib3l3qk1ma)
 
 ## 📫 Lets Connect: [LINKEDIN](https://www.linkedin.com/in/amoghkokari/)
 
