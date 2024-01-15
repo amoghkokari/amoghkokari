@@ -1,32 +1,28 @@
 ### Hey! I'm Amogh 👋
 
 Welcome to my GitHub profile :) 
-I am an Analyst who takes time to identify the right problem before finding a solutions. Centered on Empathy, I thrive on creating user-centered solutions using my technical and business Acumen. Open to interviewing and actively looking for full-time positions.
-
-Do check the repositories, leave a review or raise an issue and lets collaborate.
+I am an Analyst who thrives thrive on creating user-centered solutions. Open to interviewing and actively looking for full-time positions.
 
 - 🎓 MS in Information Systems [Stevens Institute of Technology](https://www.stevens.edu/school-business/masters-programs/information-systems)
 - 🏠 NYC metropolitan area
-- 🌱 I’m currently learning new concepts and doing projects, leetcode
+- 🌱 I’m currently learning new concepts and doing Gen Ai projects, leetcode
 - 💬 Ask me about designing [Data Driven Human-Centered Solutions]
 - ⚡ Fun fact: [Passing of days is like a binary bit, with 1 denoting a day and 0 a night. Each passing second is a journey that slowly takes us from one to the other]
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/amoghkokari/)
 - 🎈 In my free time, I like to Read Books 📚, Play Ping pong 🏓 and walk 🚶‍♂️
 
-This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
+## 🤖 Gen AI Projects:
+
+-[Get Food Recipe](https://getfoodrecipe.streamlit.app)
+Ai tells you what and how to cook based on the groceris and preferences !!
 
 ## 👨‍💻 Data Projects I've Made:
 
 - [Tableau Dashboards](https://public.tableau.com/app/profile/amoghkokari)
-
-Created Tableau dashboard to leverage data to explain events
-
+Created Tableau dashboard to leverage data to explain events in Haiti
 - [Flourish Visualizations](https://public.flourish.studio/visualisation/10860806/)
-
 90 days Multicountry data extracted from Google Trends, I contrasted coronavirus vs monkey pox search trends for The USA, Haiti, Nigeria and World Wide.
-
 - [YouTube Text Mining ML Analysis](https://github.com/amoghkokari/youTube_textMining_ML_Analysis)
-
 Developed Flask based web application that extracts YouTube data, cleans, preprocesses, feature engineers and stores data, creates word cloud (titles, descriptions, tags), runs 7 ML algorithms (GaussianNB, LGBMClassifier, XGBClassifier, AdaBoostClassifier, LogisticRegression, GBTClassifier, NaiveBayes), compares runtimes (spark vs normal), performance metrices and predicts like counts on title and description
 
 ## Figma Prototpyes (data driven UI UX)
@@ -53,10 +49,8 @@ Developed Flask based web application that extracts YouTube data, cleans, prepro
 
 - [WorkinBuddy](http://workinbuddy.com)
 
-## Project documentation:
-
-- [HCI Lab Project](https://amoghkokari.slite.page/p/HqNWOHL0w_jkiA/HCI-LAB-Project-Document)
-
 ## [Portfolio](https://padlet.com/amoghkokari/my-portfolio-pmedtgib3l3qk1ma)
 
-## 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/amoghkokari/)
+## 📫 Lets Connect: [LINKEDIN](https://www.linkedin.com/in/amoghkokari/)
+
+Do check the repositories, leave a review or raise an issue and lets collaborate.
