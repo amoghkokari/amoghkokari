@@ -16,6 +16,9 @@ I am an Analyst who thrives thrive on creating user-centered solutions. Open to 
 -[Get Food Recipe](https://getfoodrecipe.streamlit.app)
 Ai tells you what and how to cook based on the groceris and preferences !!
 
+-[Get Fitness Routine](https://getfitnessroutine.streamlit.app)
+Ai that lets you modify fitness routine based on goals, preference, difficulty level !!
+
 ## 👨‍💻 Data Projects I've Made:
 
 - [Tableau Dashboards](https://public.tableau.com/app/profile/amoghkokari)
