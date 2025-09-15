@@ -25,11 +25,11 @@ Currently based in the **NYC metropolitan area**, I’m open to interviewing and
 - [**Cover Letter Generator (Chrome Plugin)**](https://chromewebstore.google.com/detail/fkpngfojlofakgbochaelobacgekmpla)  
   Generates tailored cover letters from job postings + resume  
 
-- [**Synthetic Persona A/B Test Generator**](https://chromewebstore.google.com/detail/fkpngfojlofakgbochaelobacgekmpla)  
-  AI-driven Chrome extension for creating synthetic personas and A/B test setups  
+- [**Synthetic Persona A/B Test Generator**](https://abtest-email-marketing.streamlit.app/)  
+  AI-driven AB testing for new product launches with synthetic email, persona and evaluation generations !!
 
 - [**Real-Time Trip Planner**](https://outingplanner.streamlit.app/)  
-  Data-driven itinerary planner  
+  Qloo integrated, real time preference driven trip planner with enhanced experinces for lesiur activities !!
 
 ---
 
