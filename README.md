@@ -13,11 +13,18 @@ I am an Analyst who thrives thrive on creating user-centered solutions. Open to 
 
 ## 🤖 Gen AI Projects:
 
--[Get Food Recipe](https://getfoodrecipe.streamlit.app)
-Ai tells you what and how to cook based on the groceris and preferences !!
+-[Food Recipe Generator](https://getfoodrecipe.streamlit.app)
+AI driven application that tells you what and how to cook based on the groceris and preferences !!
 
--[Get Fitness Routine](https://getfitnessroutine.streamlit.app)
-Ai that lets you modify fitness routine based on goals, preference, difficulty level !!
+-[Fitness Routine Generator](https://getfitnessroutine.streamlit.app)
+AI driven application that lets you modify fitness routine based on goals, preference, difficulty level !!
+
+-[Cover Letter Generator Plugin](https://chromewebstore.google.com/detail/fkpngfojlofakgbochaelobacgekmpla?utm_source=item-share-cb)
+AI driven chrome plugin that generates cover letter based on job details and resume
+
+-[Synthtic persona driven AB Test generator](https://chromewebstore.google.com/detail/fkpngfojlofakgbochaelobacgekmpla?utm_source=item-share-cb)
+
+-[Real time data driven Trip Planner](https://outingplanner.streamlit.app/)
 
 ## 👨‍💻 Data Projects I've Made:
 
