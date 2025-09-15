@@ -46,8 +46,6 @@ Developed Flask based web application that extracts YouTube data, cleans, prepro
 
 ## Open source contribution - [data-8 (The Foundations of Data Science course at UC Berkeley)](https://github.com/data-8/datascience/pull/576)
 
-## Webistes I've Developed: - [WorkinBuddy](http://workinbuddy.com)
-
 ## [My Portfolio](https://padlet.com/amoghkokari/my-portfolio-pmedtgib3l3qk1ma)
 
 ## 📫 Lets Connect: [LINKEDIN](https://www.linkedin.com/in/amoghkokari/)
