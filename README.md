@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile :)  
 I’m an **Analyst passionate about data-driven, human-centered solutions**.  
-Currently based in the **Binghamton, New York**, I’m interested in **Improving knowledge transfer between Humans - Humans and Robot - Humans**. 
+Currently based in the **Binghamton, New York**, I’m interested in **Complex Systems and Network though the lens of a computer engineer**. 
 
 ---
 
