@@ -1,15 +1,18 @@
 # 👋 Hey! I'm Amogh  
 
 Welcome to my GitHub profile :)  
-I’m an **Analyst passionate about data-driven, human-centered solutions**.  
-Currently based in the **Binghamton, New York**, I’m interested in **Complex Systems and Network though the lens of a computer engineer**. 
+I’m student of **Complex Networks**, passionate about data driven, human-centered solutions.  
+Currently based in the **Binghamton, New York**, I’m currently exploring **Complex Systems and Network though the lens of a computer engineer**. 
 
 ---
 
 ## 🎯 About Me
+- 🎓 Phd (started 2026) in **Systems Science** from [Binghamton University](https://www.binghamton.edu/ssie/graduate/systems-science.html)  
+- 🥼 Working with [Dr Sadamori Kojaku](https://skojaku.github.io) at [Contexture Lab](https://contexturelab.github.io)
+- 🥼 Contributing to [Dr Reethee Anthony](https://www.binghamton.edu/apps/directory/person/profile/mantony)'s Brain & Swallow Lab
 - 🎓 MS in **Information Systems** from [Stevens Institute of Technology](https://www.stevens.edu/school-business/masters-programs/information-systems)  
-- 🌱 Learning **GenAI**, building projects, and sharpening problem-solving on LeetCode  
-- 💬 Ask me about **designing data-driven human-centered solutions**  
+- 🌱 Expanding knowledge on **GenAI**, building research projects, and sharpening problem-solving on LeetCode  
+- 💬 Ask me about **complex networks, designing data-driven human-centered solutions**  
 - ⚡ Philosophy : Day and Night are like 0-1 binary bits, sometimes longer, sometimes shorter. Each combination like passing through gradient descent to reach global minima, remeber to not get stuck on local minima !!
 - 🎈 Outside of work: I enjoy reading 📚, playing ping pong 🏓, and long walks 🚶‍♂️  
 
