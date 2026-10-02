@@ -1,8 +1,8 @@
 # 👋 Hey! I'm Amogh  
 
 Welcome to my GitHub profile :)  
-I’m student of **Complex Networks**, passionate about data driven, human-centered solutions.  
-Currently based in the **Binghamton, New York**, I’m currently exploring **Complex Systems and Network though the lens of a computer engineer**. 
+I’m student of **Symphony**, orchestrating network of connected systems to discover harmony across finance and biology to science of science.  
+Currently based in the **Binghamton, New York**, Looking at **Complex Systems and Network though the lens of a computer science engineer**. 
 
 ---
 
