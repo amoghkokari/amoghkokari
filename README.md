@@ -1,8 +1,8 @@
 # 👋 Hey! I'm Amogh  
 
 Welcome to my GitHub profile :)  
-I’m student of **Symphony**, orchestrating network of connected systems to discover harmony across finance and biology to science of science.  
-Currently based in the **Binghamton, New York**, Looking at **Complex Systems and Network though the lens of a computer science engineer**. 
+I’m student of **Symphony**, orchestrating network of connected systems to discover harmony across finance, biology to science of science.  
+Based in the **Binghamton, New York**, Looking at **Complex Systems and Network though the lens of a computer science engineer**. 
 
 ---
 
